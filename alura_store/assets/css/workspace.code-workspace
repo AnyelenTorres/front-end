@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\img"
+		},
+		{
+			"path": "..\\js"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"ritwickdey.LiveServer"
+		]
+	},
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
